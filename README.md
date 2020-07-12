@@ -1,3 +1,5 @@
+Edit:  I completed the web codelab under the 'web-start' folder and it is deployed at https://friendlychat-diamond.web.app/ 
+
 # Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
